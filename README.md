@@ -19,7 +19,7 @@
 
 
 
-### **GSoC Proposal**: [here]()
+### **GSoC Proposal**: [here](https://github.com/Aman-Baliyan/gsoc-report/blob/main/Proposal%20for%20openjdk-style-guide.pdf)
 
 
 
